@@ -44,9 +44,10 @@ a:hover, a:active {
 }
 footer ul {margin-left: 300px;}
 footer ul li {float:left;
+  display: inline-block;
   clear: both;
   margin:10px 0 0 20px;
   padding: 6px;
 	font-size: 20px;}
-footer a:link {display: block; background-color: transparent;}
+footer a:link {display: inline-block; background-color: transparent;}
 #content {margin-bottom: 20px; }
