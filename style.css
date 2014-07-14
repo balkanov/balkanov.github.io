@@ -9,7 +9,7 @@ p {font-size:17px;
 h1{font-size:60px;
 	float:left;
 	clear:left;
-   margin-top: 10px;}
+   margin-top: 50px;}
 h2{font-size:24px;
    text-align: left;
    margin-top: 40px; 
@@ -38,7 +38,7 @@ a:link, a:visited {
     text-decoration: none;
     text-transform: uppercase;
 }
-
+nav {position: fixed; top:0; left: 0; width: 100%; background-color: #FF4500}
 a:hover, a:active {
     background-color: #CD853F;
 }
