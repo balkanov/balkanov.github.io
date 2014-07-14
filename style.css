@@ -46,7 +46,6 @@ footer ul {margin-left: 300px;}
 footer ul li {float:center;
   clear: left;
   margin:10px 0 0 20px;
-  display: table-footer-group;
   padding: 6px;
 	font-size: 20px;}
 footer a:link {display: inline; background-color: transparent;}
