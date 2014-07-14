@@ -43,8 +43,9 @@ a:hover, a:active {
     background-color: #CD853F;
 }
 footer ul {margin-left: 300px;}
-footer ul li {float:left;
-	padding-left: 30px;
+footer ul li {float:center;
+  padding-left: 30px;
 	margin:10px 0 0 20px;
+  background-color: transparent;
 	font-size: 20px;}
 #content {margin-bottom: 20px; }
